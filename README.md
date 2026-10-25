@@ -1,16 +1,21 @@
-# Student Grade Calculator
+# 🎓 Student Grade Calculator
 
-A simple Java-based project designed to calculate a student's total marks, percentage, and final grade based on their performance in five subjects.
+A simple **Student Grade Calculator built using Java** that calculates a student's total marks, overall percentage, and final grade based on their performance across five subjects.
 
-## Features
+## ✨ Features
 
 - Accepts the student's name as input.
 - Takes marks obtained in five subjects.
-- Calculates the total marks.
+- Calculates the total marks scored.
 - Computes the overall percentage.
-- Determines the final grade based on the marks obtained.
+- Assigns a final grade based on the student's performance.
 
-## How to Run
+## 🛠️ Technologies Used
+
+- **Java**
+- **Command-Line Interface (CLI)**
+
+## 🚀 How to Run
 
 **Step 1: Compile the Java program**
 
@@ -18,7 +23,7 @@ A simple Java-based project designed to calculate a student's total marks, perce
 javac StudentGradeCalculator.java
 ```
 
-**Step 2: Execute the program**
+**Step 2: Run the program**
 
 ```bash
 java StudentGradeCalculator
